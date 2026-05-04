@@ -7,7 +7,8 @@ XRHeadStream is an advanced real-time head-tracking solution that streams head-t
 This application serves as a bridge between Meta Quest headsets and Unity environments, providing real-time head tracking data streaming capabilities. The app utilizes the Quest's built-in tracking capabilities to send positional and rotational data over a local network.
 
 ## Demo
-https://github.com/user-attachments/assets/b7f35188-55dd-440a-96a8-d1af793480e4"
+https://github.com/user-attachments/assets/b7f35188-55dd-440a-96a8-d1af793480e4
+
 ## Features
 
 **Core Capabilities**
